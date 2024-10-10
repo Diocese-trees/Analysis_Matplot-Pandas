@@ -1,6 +1,6 @@
-# README Analysis-Matplot
+Analysis-Matplot
 
-## Project Description
+**Project Description**
  This is a project that examines the dataset called **"1000 organizations.xlsx"**, to explore and visualize insights behind different organizations across countries and industries. Analysis will be made using the Python libraries **Pandas** and **Matplotlib**.
  
 ## Technologies Used
